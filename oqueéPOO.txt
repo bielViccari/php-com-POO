@@ -1,0 +1,73 @@
+Oque é POO ??
+
+POO or OOP - programação orientada à objetos.
+
+
+objetivo -
+aproximar o mundo digital do mundo real.
+
+vantagens ----
+
+confiável -
+o isolamento entre as partes gera software seguro.Ao alterar uma parte, nenhuma outra é afetada.
+
+oportuno-
+Ao dividir tudo em partes, varias delas podem ser desenvolvidas em paralelo.
+
+manutenível -
+Atualizar um software é mais facil. Uma pequena modificação vai beneficiar todas as partes que usarem o objeto.
+
+extensível-
+O software não é estático.Ele deve crescer para permanecer util.
+
+Reutilizável-
+Podemos usar objetos de um sistema que criamos em outro sistema futuro
+
+natural-
+Mais facil de entender. Você se preocupa mais na funcionalidade do que nos detalhes de implementação.
+
+
+oque é um objeto ??
+
+coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suasa caracteristicas, comportamentos e estado Atualizar
+
+todo objeto tem um atributo, comportamento(metodos) e um estado.
+
+exemplo:
+
+classe: caneta
+modelo:caractere
+cor:caractere
+ponta:real
+carga:inteiro
+tampada:logico
+
+Metodo rabiscar()
+ if (tampada) {
+   echo("erro");
+
+
+ }else{
+   echo("rabisco")
+ }
+ 
+
+fimMetodo
+
+Metodo tampar()
+ tampada = true;
+fimMetodo
+
+
+
+fimClasse
+
+
+instanciar -
+instanciar uma classe como um objeto 
+
+classe-
+define os atributos e metodos comuns que serão compartilhados por um objeto.
+
+objeto- 
+é a instancia de uma classe, quando eu instancio uma classe eu crio um objeto .

@@ -1,0 +1,29 @@
+MÉTODOS ESPECIAIS -
+
+e = nova Estante   - instanciando uma classe, ou seja criando um obj
+
+MÉTODOS ACESSORES - Getters
+
+e= new Estante
+
+e.getTotDoc() -peguei a  soma total de documentos
+
+METODO MODIFICADORES - Setters
+
+e= new Estante
+
+e.setTotDoc(doc) - adicionei um novo documento na estante,somando ao totalDoc
+
+MÉTODO CONSTRUTOR - Construct
+
+Classe Caneta
+
+Metodo construtor()
+     
+     tampar()
+     cor= "Azul"
+fimMetodo
+
+FimClasse
+
+c1 = new Caneta ->o construtor vai gerar a caneta tampada e com cor azul automáticamente

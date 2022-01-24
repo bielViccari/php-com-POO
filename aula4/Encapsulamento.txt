@@ -1,0 +1,23 @@
+UM DOS TRÊS PILARES DA POO; Encapsulamento, Herança e Polimorfismo
+
+Encapsulamento -
+
+Encapsular é ocultar partes independentes da implementação, permintindo construir partes invisiveis ao mundo exterior.
+
+na programação você pode conversar com um objeto , ou seja uma troca de mensagens com a capsula, você nao vai entrar na mesma, e sim trocar mensagens.
+
+esse canal de comunicação q todo objeto tem, é chamado de interface.
+
+interface -
+Lista de serviços fornecidos por um componente.É o contato com o mundo exterior, que denife o que pode ser feito com um objeto dessa classse.
+
+vantagens de se Encapsular {
+
+1-Tornar mudanças invisiveis .
+
+2-Facilitar a reutilização de código.
+
+3-Reduzir os efeitos colaterais.
+
+}
+
